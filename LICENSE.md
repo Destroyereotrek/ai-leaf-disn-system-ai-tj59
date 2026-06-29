@@ -1,4 +1,4 @@
-# 
+# Oficial AI leaf disease detection system herramientas. Con aumento de datos y toma de decisiones automatizada — optimizado para el máximo rendimiento.
 
 
 
